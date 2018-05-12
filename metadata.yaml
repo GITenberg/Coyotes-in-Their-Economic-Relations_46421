@@ -1,0 +1,32 @@
+_repo: Coyotes-in-Their-Economic-Relations_46421
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46421-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lantz, David E. (David Ernest)
+    aliases:
+    - Lantz, David
+    - Lantz, D. E. (David Ernest)
+    - Lantz, D.
+    birthdate: 1855
+    deathdate: 1918
+    gutenberg_agent_id: '37739'
+    url: http://www.gutenberg.org/2009/agents/37739
+description: Investigations concerning coyote-proof fencing. pp. 24.
+gutenberg_issued: '2014-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46421'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: United States. Dept. of Agriculture. Biological Survey, Bulletin No.
+  20
+subjects:
+- !lcc 'QL'
+- !lcsh 'Coyote'
+title: Coyotes in Their Economic Relations
+url: http://www.gutenberg.org/ebooks/46421
